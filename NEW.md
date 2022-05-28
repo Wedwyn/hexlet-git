@@ -1,0 +1,1 @@
+vse ne tak prosto
