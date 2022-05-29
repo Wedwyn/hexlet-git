@@ -1,1 +1,2 @@
-studing how to work with flag --amend
+I am learning...
+I decide to add this line
