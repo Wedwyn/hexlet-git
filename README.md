@@ -1,1 +1,1 @@
-studing how to work with flag --amend
+no code no pain
