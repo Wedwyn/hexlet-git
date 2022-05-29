@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+studing how to work with flag --amend

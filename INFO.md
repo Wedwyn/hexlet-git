@@ -1,2 +1,1 @@
-git is awesome!
-new line
+studing how to work with flag --amend
